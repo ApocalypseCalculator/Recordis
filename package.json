@@ -1,0 +1,28 @@
+{
+  "name": "recordis",
+  "version": "0.0.1",
+  "description": "A userbot to record screen shares on Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ApocalypseCalculator/Recordis.git"
+  },
+  "keywords": [
+    "record",
+    "discord"
+  ],
+  "author": "ApocalypseCalculator",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ApocalypseCalculator/Recordis/issues"
+  },
+  "homepage": "https://github.com/ApocalypseCalculator/Recordis#readme",
+  "dependencies": {
+    "puppeteer-core": "^13.2.0",
+    "puppeteer-screen-recorder": "^2.0.2",
+    "user-agents": "^1.0.921"
+  }
+}
