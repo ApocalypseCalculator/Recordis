@@ -22,7 +22,6 @@
   "homepage": "https://github.com/ApocalypseCalculator/Recordis#readme",
   "dependencies": {
     "puppeteer-core": "^13.2.0",
-    "puppeteer-screen-recorder": "^2.0.2",
-    "user-agents": "^1.0.921"
+    "puppeteer-screen-recorder": "^2.0.2"
   }
 }
